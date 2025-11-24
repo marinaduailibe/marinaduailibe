@@ -27,7 +27,6 @@ I am an Electric Engineering student at the Federal University of Santa Catarina
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 
-*(Note: You can find more badges at shields.io)*
 
 ---
 
