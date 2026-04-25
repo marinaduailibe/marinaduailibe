@@ -40,6 +40,7 @@ I am an Electric Engineering student at the Federal University of Santa Catarina
 **Scientific Initiation** @ Space Technology Research Laboratory (Spacelab)
 - Solar panel project and hardware design.
 - MPPT system research.
+- Embedded systems.
 
 ---
 
